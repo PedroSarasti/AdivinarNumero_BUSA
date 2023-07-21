@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\AdivinarNumero_BUSA\AdivinarNumero_BUSA\bin\Debug\net7.0\AdivinarNumero_BUSA.exe
+C:\Users\User\source\repos\AdivinarNumero_BUSA\AdivinarNumero_BUSA\bin\Debug\net7.0\AdivinarNumero_BUSA.deps.json
+C:\Users\User\source\repos\AdivinarNumero_BUSA\AdivinarNumero_BUSA\bin\Debug\net7.0\AdivinarNumero_BUSA.runtimeconfig.json
+C:\Users\User\source\repos\AdivinarNumero_BUSA\AdivinarNumero_BUSA\bin\Debug\net7.0\AdivinarNumero_BUSA.dll
+C:\Users\User\source\repos\AdivinarNumero_BUSA\AdivinarNumero_BUSA\bin\Debug\net7.0\AdivinarNumero_BUSA.pdb
+C:\Users\User\source\repos\AdivinarNumero_BUSA\AdivinarNumero_BUSA\obj\Debug\net7.0\AdivinarNumero_BUSA.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\AdivinarNumero_BUSA\AdivinarNumero_BUSA\obj\Debug\net7.0\AdivinarNumero_BUSA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\AdivinarNumero_BUSA\AdivinarNumero_BUSA\obj\Debug\net7.0\AdivinarNumero_BUSA.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AdivinarNumero_BUSA\AdivinarNumero_BUSA\obj\Debug\net7.0\AdivinarNumero_BUSA.AssemblyInfo.cs
+C:\Users\User\source\repos\AdivinarNumero_BUSA\AdivinarNumero_BUSA\obj\Debug\net7.0\AdivinarNumero_BUSA.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AdivinarNumero_BUSA\AdivinarNumero_BUSA\obj\Debug\net7.0\AdivinarNumero_BUSA.dll
+C:\Users\User\source\repos\AdivinarNumero_BUSA\AdivinarNumero_BUSA\obj\Debug\net7.0\refint\AdivinarNumero_BUSA.dll
+C:\Users\User\source\repos\AdivinarNumero_BUSA\AdivinarNumero_BUSA\obj\Debug\net7.0\AdivinarNumero_BUSA.pdb
+C:\Users\User\source\repos\AdivinarNumero_BUSA\AdivinarNumero_BUSA\obj\Debug\net7.0\AdivinarNumero_BUSA.genruntimeconfig.cache
+C:\Users\User\source\repos\AdivinarNumero_BUSA\AdivinarNumero_BUSA\obj\Debug\net7.0\ref\AdivinarNumero_BUSA.dll
